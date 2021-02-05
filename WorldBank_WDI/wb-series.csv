@@ -1,0 +1,70 @@
+series.id,series.name
+AG.LND.FRST.ZS,Forest area (% of land area)
+AG.YLD.CREL.KG,Cereal yield (kg per hectare)
+BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)"
+BX.TRF.PWKR.DT.GD.ZS,"Personal remittances, received (% of GDP)"
+DT.ODA.ODAT.GN.ZS,Net ODA received (% of GNI)
+EG.ELC.ACCS.ZS,Access to electricity (% of population)
+EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output)
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita)
+EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)"
+EN.ATM.PM25.MC.T1.ZS,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)"
+EN.ATM.PM25.MC.T2.ZS,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)"
+EN.ATM.PM25.MC.T3.ZS,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)"
+EN.ATM.PM25.MC.ZS,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)"
+ER.GDP.FWTL.M3.KD,"Water productivity, total (constant 2010 US$ GDP per cubic meter of total freshwater withdrawal)"
+ER.H2O.FWTL.ZS,"Annual freshwater withdrawals, total (% of internal resources)"
+ER.MRN.PTMR.ZS,Marine protected areas (% of territorial waters)
+GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP)
+GC.REV.GOTR.ZS,Grants and other revenue (% of revenue)
+GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)"
+GC.TAX.TOTL.GD.ZS,Tax revenue (% of GDP)
+IC.ELC.OUTG,Power outages in firms in a typical month (number)
+IC.FRM.BRIB.ZS,Bribery incidence (% of firms experiencing at least one bribe payment request)
+IC.FRM.FEMM.ZS,Firms with female top manager (% of firms)
+IC.FRM.FEMO.ZS,Firms with female participation in ownership (% of firms)
+IC.FRM.TRNG.ZS,Firms offering formal training (% of firms)
+IQ.SCI.MTHD,Methodology assessment of statistical capacity (scale 0 - 100)
+IQ.SCI.OVRL,Overall level of statistical capacity (scale 0 - 100)
+IQ.SCI.PRDC,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100)
+IQ.SCI.SRCE,Source data assessment of statistical capacity (scale 0 - 100)
+IT.NET.USER.ZS,Individuals using the Internet (% of population)
+NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP)
+NV.AGR.EMPL.KD,"Agriculture, forestry, and fishing, value added per worker (constant 2010 US$)"
+SE.ADT.1524.LT.FE.ZS,"Literacy rate, youth female (% of females ages 15-24)"
+SE.ADT.1524.LT.MA.ZS,"Literacy rate, youth male (% of males ages 15-24)"
+SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)"
+SE.ADT.LITR.FE.ZS,"Literacy rate, adult female (% of females ages 15 and above)"
+SE.ADT.LITR.MA.ZS,"Literacy rate, adult male (% of males ages 15 and above)"
+SE.ADT.LITR.ZS,"Literacy rate, adult total (% of people ages 15 and above)"
+SE.ENR.PRIM.FM.ZS,"School enrollment, primary (gross), gender parity index (GPI)"
+SE.ENR.SECO.FM.ZS,"School enrollment, secondary (gross), gender parity index (GPI)"
+SE.ENR.TERT.FM.ZS,"School enrollment, tertiary (gross), gender parity index (GPI)"
+SE.PRE.ENRR,"School enrollment, preprimary (% gross)"
+SE.PRE.ENRR.FE,"School enrollment, preprimary, female (% gross)"
+SE.PRE.ENRR.MA,"School enrollment, preprimary, male (% gross)"
+SE.TER.ENRR,"School enrollment, tertiary (% gross)"
+SE.TER.ENRR.FE,"School enrollment, tertiary, female (% gross)"
+SE.TER.ENRR.MA,"School enrollment, tertiary, male (% gross)"
+SE.XPD.TOTL.GB.ZS,"Government expenditure on education, total (% of government expenditure)"
+SG.LAW.CHMR,Law prohibits or invalidates child or early marriage (1=yes; 0=no)
+SG.LAW.EQRM.WK,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)
+SG.LAW.LEVE.PU,Law mandates paid or unpaid maternity leave (1=yes; 0=no)
+SG.LAW.NODC.HR,Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)
+SG.LEG.DVAW,Legislation exists on domestic violence (1=yes; 0=no)
+SG.MMR.LEVE.EP,Mothers are guaranteed an equivalent position after maternity leave (1=yes; 0=no)
+SG.NOD.CONS,Nondiscrimination clause mentions gender in the constitution (1=yes; 0=no)
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)"
+SH.H2O.SMDW.ZS,People using safely managed drinking water services (% of population)
+SH.STA.SMSS.ZS,People using safely managed sanitation services (% of population)
+SH.STA.TRAF.P5,"Mortality caused by road traffic injury (per 100,000 people)"
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)"
+SH.XPD.GHED.GE.ZS,Domestic general government health expenditure (% of general government expenditure)
+SI.POV.GINI,GINI index (World Bank estimate)
+SI.POV.UMIC,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population)
+SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2011 PPP $)
+SP.ADO.TFRT,"Adolescent fertility rate (births per 1,000 women ages 15-19)"
+SP.POP.SCIE.RD.P6,Researchers in R&D (per million people)
+SP.REG.BRTH.ZS,Completeness of birth registration (%)
+SP.REG.DTHS.ZS,Completeness of death registration with cause-of-death information (%)
+ST.INT.RCPT.XP.ZS,"International tourism, receipts (% of total exports)"
