@@ -27,7 +27,7 @@ Our Approaches index: https://api.open.undp.org/api/our-approaches-index.json
 Project Data: https://api.open.undp.org/api/project_list/?year={year}&sector={sector-id}&operating_unit={iso3}&sdg={sdg-id}&signature_solution={signature solution-id}&budget_source={budget source-id}&marker_type={marker-id}&limit={1-1000}&offset={0-count/1000}
 
 Comma Separated Values
-[undp-project-data.zip](https://api.open.undp.org/api/download/undp-project-data.zip)
+undp-project-data.zip  https://api.open.undp.org/api/download/undp-project-data.zip
 ```
 
 ## Particularities 
@@ -39,7 +39,9 @@ if "sdg" in p_data.keys():
 
 ## Code Examples
 **Access UNDP Project Data and Files.py** Python script for downloading all project data for all operational units
+
 **Access UNDP Project Results.py** Python script for getting project results. Note that project results are available for a limited number of projects. 
+
 
 ## Legal considerations
 The data used on the [open.undp.org](http://open.undp.org) is free to use under the Creative Commons Attribution 3.0 IGO License (CC-BY 3.0 IGO).
